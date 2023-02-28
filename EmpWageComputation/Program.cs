@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             // Console.WriteLine("Welcome to EmpwageComputation");
-            EmployeePayRoll.Employee_Attendence();
+            EmployeePayRoll.EmpDaily_Wage();
         }
     }
 }
